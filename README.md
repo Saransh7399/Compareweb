@@ -65,6 +65,14 @@ In a small survey conducted with 25 participants:
 
 ---
 
+## How to run
+- You can just downliad the zip file and open comparewb.html on your browser.
+- Once you open it you will only have laptop option to search as the website has API connectivity and credentials are not share.
+- You can have the API code for reference as well in the zip file.
+- This is just for experimental project for understanding and knowledge gain of the domian.
+
+---
+
 ## References
 1. [Global News: Second-Hand Economy Growth](https://globalnews.ca/news/3308108/nearly-two-billion-items-changed-hands-in-2016-as-second-hand-economy-continues-to-grow/)
 2. [PayPal Survey on Canadian Resale Economy](https://www.newswire.ca/news-releases/paypal-survey-reveals-canadians-could-make-an-estimated-571-on-average-from-pre-loved-items-in-their-home-804969086.html)
