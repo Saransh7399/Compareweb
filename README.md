@@ -1,6 +1,6 @@
 # Compareweb
 
-# Co-Author: https://github.com/SheenR
+### Co-Author: https://github.com/SheenR
 
 ## Overview
 **Compareweb** is a re-commerce comparison platform designed to help users optimize their search and compare products across multiple platforms. It addresses the challenges users face while browsing different online second-hand markets, such as Facebook Marketplace, Kijiji, Auto-trader, and others.
